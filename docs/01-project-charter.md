@@ -38,7 +38,7 @@ The project is intended as a portfolio demonstration of analytics engineering, d
   - Supplier dependency or exposure
 
   ### Risk Intelligence
-  The solution will derive selected supplier risk indicators from available data and provide contextual views of supplier performance.
+  The solution will derive selected supplier risk indicators from available data and assess their status against illustrative thresholds where appropriate.
 
 Where appropriate, indicators may be compared against illustrative thresholds to demonstrate how risk status could be determined.
 
@@ -57,8 +57,9 @@ The ESG component will focus on demonstrating data integration, modeling, and an
   - Data quality
   - Dimensional modeling
   - Business logic
-  - Risk/ESG indicators
   - Analytical datasets
+  - Supplier performance and risk indicator calculation
+  - Risk indicator status assessment against defined thresholds
 
   ### Analytics & Visualization
   - Power BI semantic model
